@@ -1,0 +1,8 @@
+{
+  "name": "Forest Friends Cinematic Video Scorer",
+  "description": "Play and generate a custom soundtrack score for the official cinematic movie 'Enhanced Forest Friends' or your own custom footage using Lyria.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
